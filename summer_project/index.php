@@ -18,12 +18,12 @@
 <body>
  <!-- header section starts-->
  <section class="header">
-    <a href="index.php" class="logo">travel</a>
+    <a href="index.html" class="logo">travel</a>
     <nav class="navbar">
-        <a href="index.php" >Home</a>
-        <a href="about.php" >About</a>
-        <a href="package.php" >Package</a>
-        <a href="book.php">Book</a>   
+        <a href="index.html" >Home</a>
+        <a href="about.html" >About</a>
+        <a href="package.html" >Package</a>
+        <a href="book.html">Book</a>   
     </nav>
     <div id="menu-btn" class="fas fa-bars"></div>
  </section>
@@ -36,21 +36,21 @@
                 <div class="content">
                     <span>Explore,Discover,Travel</span>
                     <h3>Travel Around the world</h3>
-                    <a href="package.php" class="btn">Discover More</a>
+                    <a href="package.html" class="btn">Discover More</a>
                 </div>
             </div>
             <div class="swiper-slide slide" style="background:url(homeslide-2.jpg) no-repeat; background-size:100%;">
                 <div class="content">
                     <span>Explore,Discover,Travel</span>
                     <h3>Discover the new place</h3>
-                    <a href="package.php" class="btn">Discover More</a>
+                    <a href="package.html" class="btn">Discover More</a>
                 </div>
             </div>
             <div class="swiper-slide slide" style="background:url(homeslide-3.jpg) no-repeat">
                 <div class="content">
                     <span>Explore,Discover,Travel</span>
                     <h3>Make your tour worth while</h3>
-                    <a href="package.php" class="btn">Discover More</a>
+                    <a href="package.html" class="btn">Discover More</a>
                 </div>
             </div>
         </div>
@@ -98,7 +98,7 @@
     <div class="content">
         <h3>About Us</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi praesentium tenetur eius nobis repellendus, ratione commodi eligendi odit deleniti, illo consequatur perspiciatis dolorem facere deserunt ab dicta quod magnam odio!</p>
-        <a href="about.php" class="btn">Read More</a>
+        <a href="about.html" class="btn">Read More</a>
     </div>
  </section>
   <!--home about section ends-->
@@ -113,7 +113,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit!</p>
-                <a href="book.php" class="btn">Book Now</a>
+                <a href="book.html" class="btn">Book Now</a>
             </div>
         </div>
         <div class="box">
@@ -123,7 +123,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit!</p>
-                <a href="book.php" class="btn">Book Now</a>
+                <a href="book.html" class="btn">Book Now</a>
             </div>
         </div>
         <div class="box">
@@ -133,11 +133,11 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit!</p>
-                <a href="book.php" class="btn">Book Now</a>
+                <a href="book.html" class="btn">Book Now</a>
             </div>
         </div>
     </div>
-    <div class="load-more" ><a href="package.php" class="btn">Load More</a></div>
+    <div class="load-more" ><a href="package.html" class="btn">Load More</a></div>
  </section>
   <!--home package section ends--> 
 <!--home offer section starts--> 
@@ -145,7 +145,7 @@
     <div class="content">
         <h3>Upto 50% off</h3>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus debitis alias amet cumque architecto error perspiciatis!</p>
-        <a href="book.php" class="btn">Book Now</a>
+        <a href="book.html" class="btn">Book Now</a>
     </div>
 </section>
 <!--home offer section ends--> 
@@ -154,10 +154,10 @@
     <div class="box-container">
         <div class="box">
             <h3>quick links</h3>
-            <a href="index.php" ><i class="fas fa-angle-right"></i> Home</a>
-            <a href="about.php" ><i class="fas fa-angle-right"></i>About</a>
-            <a href="package.php" ><i class="fas fa-angle-right"></i>Package</a>
-            <a href="book.php"><i class="fas fa-angle-right"></i>Book</a>  
+            <a href="index.html" ><i class="fas fa-angle-right"></i> Home</a>
+            <a href="about.html" ><i class="fas fa-angle-right"></i>About</a>
+            <a href="package.html" ><i class="fas fa-angle-right"></i>Package</a>
+            <a href="book.html"><i class="fas fa-angle-right"></i>Book</a>  
         </div>
         <div class="box">
             <h3>extra links</h3>
