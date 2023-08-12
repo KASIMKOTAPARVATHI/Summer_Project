@@ -18,7 +18,7 @@
 <body>
  <!-- header section starts-->
  <section class="header">
-    <a href="home.php" class="logo">travel</a>
+    <a href="index.php" class="logo">travel</a>
     <nav class="navbar">
         <a href="index.php" >Home</a>
         <a href="about.php" >About</a>
